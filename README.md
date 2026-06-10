@@ -96,3 +96,6 @@ Here are some ideas to get you started:
 
 ### 🛠️ Systems, Tools & Infrastructure
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  <!--![GitLab CI/CD](https://img.shields.io/badge/gitlab%20ci/cd-%23E24329.svg?style=for-the-badge&logo=gitlab&logoColor=white)-->  ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-4E4E4E?style=for-the-badge&logo=windows&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+##
+![Visitor Count](https://komarev.com/ghpvc/?username=IshwinderKaur8&color=green&style=flat-square)
