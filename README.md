@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **IshwinderKaur8/IshwinderKaur8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,60 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```                                                                                 
-                                                                             
-                                                                             
-                                                                             
-                                    XXXX$                                    
-                              &&&&$$$$xX$&&&&&                               
-                          &&&&&$Xx$&$XXX$$$&&&&&&&                           
-                       &&&&&&&$X+X$XXX$$$$&&&&&&&&&&                         
-                     &&&&&&&&$X++X$$X$&&&&&&&&&&&&&&&&&                      
-                    &&&&&&&&$x+;+xXX$$&&&&&&&&&&&&&&&&&&&                    
-                 &&&&&&&&&&$X+;;;++xxX$$&&&&&&&&&&&&&&&&&&                   
-                &&&&&&&&&$x+;::::::;;+xXXX&&&&&&&&&&&&&&&&&                  
-               &&&&&&&Xxx+;;;::::::::;;xX$$$&&&&&&&&&&&&&&&&                 
-               &&&&&&Xx+;;;::::.....:::;+X$$&&&&&&&&&&&&&&&&&                
-              &&&&&&X+;;::::::::::...::;;xX$&&&&&&&&&&&&&&&&&&               
-              &&&&&Xx+;;;;;;;;::::::::::;;xXX$&&&&&&&&&&&&&&&&               
-              &&&&$xx+;;;;;;;;;:::::.::;;;;++xX&&&&&&&&&&&&&&&               
-             &&&&$Xx++;;;;;;;;;::::..:::::::;;+xX&&&&&&&&&&&&&               
-             &&&&$+++;;;;;;;;;;;::::::;+xxxx;;;+xx$&&&&&&&&&&&&              
-              &&&&&&&&$$Xx+;;;;;;x$&&&&&&&&&$$$x++xx$&&&&&&&&&&&             
-               &&&$$$$&&&$x+;;;++xxXXxXXxxx+++xXxx++x$&&&&&&&&$xX            
-             $$&&XXXXXXXXXx++;;;;+xxxxxxXXxxx+;;;;;X$&&&&&&$XXx++x           
-           .;;$&&$&&X$&&$Xxx+;:;;+xXXX+x&&$+X$x::.+X+x$&&&$+;+xxxx           
-           ::+X$$$&$xx&$xXXx+;:;;+++xxxxXXxxxx+;:::;;+X&&&$x++xXxx           
-            ;+  $xXXXXXXxxx+;::;;;;;+xx++++;;;;;:::;;+X$&&$$XxxXx            
-             ;  X++++++++++;;..:;;;;;;;;;;;:;::::;;;+xX$&$Xxx+xx             
-             :; x+;;;;;;;+;;:..:;;:;::;;;::.:::;;;;++x$&&$Xxxxx              
-              ..;+;;::::;;+;:..::;:.:::::.....:;;;++xX$$$xxx+++              
-                +;::::;;++;;:..:::;+++;;:::;;;;;;++xxX$$x+x;++               
-               .+x+++++++xx++;++++xx++++x+++;;;++++xxX$$x+++:                
-              .: xxx+xxxxxXXXXXXx++;;;++xxx++++++++xX$$$XX  ..               
-              x$ XxxxxXXXxxXxxxx+++++++xXXx++++++++xXxx  xX ::               
-              +X&Xxxx++x$$$Xxxx++++x++xx++++;+++++xx$$x+  XXXX               
-                +XXxx+++x$XXXx++++++++++;;;;;+++++xX$   XXxx                 
-                  XXx+++xxXXxxxxx+xx+++;;;;;++++xxXX$                        
-                    Xx+xxxxxxxxxxx++++;;;;;;+++xxxxX$                        
-                     Xxxxxxxxxxx+++;;;;;;++++xxxxxxX$                        
-                     $$$Xxx+++++;;;:;;;+++xxXxxxxxxx$                        
-                 XxxXXXXXXxx+++++++;+++xxXxxxxx++xxxX                        
-            :;x++++xxXXxxxxxXxxxxxxxxXXxxxxxx++++xxxXX                       
-  ::.  ..   .:;;+++xxXxxxxxxxxxxxxxxxxxxxxxx+++++xxxxXXXX                    
-....... .   .:;;;++xxxxxx+++++++xxxxxxx++++++++++xxxxxxxxxx+;:               
-.... .  .....::;;;+++xxxxx+++++++++++++++++++++++xxxxxxx+++xx;... ...        
-   .        .::;;;;+++xxxx++++++++++++++++++++++++++++++++;;+;...       ..   
-.  .        ..::::;;;;+++xx++++++++++++++++++++++++++++;;;;;;;::           .:
- . .         ..:::;;;;;;++++++++++++++++++++++++++;;;;;;;;;::;:              
-   .         ..:::::;;;;;;++++++++++++++++++++++;;;;;;;:::::::.  ..          
-   ..         ......:::;:;;+;;;;;;;;;;;;;;++;;;;;;:;:::::::::......          
-    .         ........:::;;;;;;;;;;;;;;;;;;;;;;:::::::::::......             
-   .:.         .......:::::::::;;;;;;;;;;;;::::::::::::::.......        ...  
-  .:::.       ...:...::::::::::::;;;;;;::::::::::::::::::.......       ..    
-.. ..         .:........::::::::::::::::::::::::::::::::........        ...  
-.   ..      ..::. .........::::::::::::::::::::::::::::........         .:.
-```
+
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&vCenter=true&width=435&lines=ishwinder%40macbook%3A~%24+whoami;Ishwinder+Kaur+Ahluwalia;ishwinder%40macbook%3A~%24+" alt="Typing SVG" />
+</div>
+
+| 🔴 🟡 🟢 &nbsp; `ishwinder@macbook: ~` |
+| :--- |
+| <br> `ishwinder@macbook:~$ whoami` <br> **Ishwinder Kaur Ahluwalia** <br><br> `ishwinder@macbook:~$ code --version` <br> **IDE:** Visual Studio Code 1.123.0 <br><br> `ishwinder@macbook:~$ focus` <br> **Area of work:** AI and Software Engineering <br><br> `ishwinder@macbook:~$ cat bio.txt` <br> 🎓 CS undergrad passionate about Conversational AI & intelligent systems. <br> 🔍 Exploring LLMs, RAG pipelines, and AI-powered applications. <br> 🌱 Currently learning: LangChain · LlamaIndex · Hugging Face · Prompt Engineering <br><br> `ishwinder@macbook:~$ ls projects` <br> 📁 [Invoice & Receipt Processing Platform](https://github.com/IshwinderKaur8/invoice-env) &nbsp;&nbsp; 📁 [Unsupervised Sensor Fault Detection](https://github.com/IshwinderKaur8/unsupervised-sensor-fault-detection) &nbsp;&nbsp; <!--📁 [REPLACE: your-repo-name-3](https://github.com/IshwinderKaur8/<REPLACE: your-repo-name-3 )--> <br><br> `ishwinder@macbook:~$ ping socials` <br> PING github.com... **alive** → [github.com/IshwinderKaur8](https://github.com/IshwinderKaur8) <br> PING linkedin.com... **alive** → [https://www.linkedin.com/in/ishwinder-kaur-ahluwalia-08b265368](https://linkedin.com/in/ishwinder-kaur-ahluwalia-08b265368) <br> <!--PING kaggle.com... **alive** → [https://www.kaggle.com/erishwinderkaur](https://kaggle.com/erishwinderkaur) <br> PING portfolio... **alive** → [REPLACE: your-portfolio-url](https://REPLACE: your-portfolio-url) <br> --> <br> `ishwinder@macbook:~$ uptime` <br> 24/7/365 <br><br> `ishwinder@macbook:~$ sudo dream` <br> [sudo] password for ishwinder: ▒▒▒▒▒▒▒▒ <br> **Becoming an AI Engineer — Turning curiosity into intelligence** <br><br> `ishwinder@macbook:~$ ▒` <br><br> |
+
+---
 
 # 💻 Tech Stack
 
@@ -97,5 +51,16 @@ Here are some ideas to get you started:
 ### 🛠️ Systems, Tools & Infrastructure
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  <!--![GitLab CI/CD](https://img.shields.io/badge/gitlab%20ci/cd-%23E24329.svg?style=for-the-badge&logo=gitlab&logoColor=white)-->  ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-4E4E4E?style=for-the-badge&logo=windows&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-##
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IshwinderKaur8&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshwinderKaur8&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+---
+
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=IshwinderKaur8&color=green&style=flat-square)
